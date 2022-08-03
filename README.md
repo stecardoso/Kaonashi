@@ -1,2 +1,2 @@
 # Kaonashi
-Kaonashi drawing and animation with pure css.
+Drawing and animation with pure css.
